@@ -1,16 +1,13 @@
-## Hi there 👋
+## boas vindas ao meu perfil 🫀
 
-<!--
-**podkowa01/podkowa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Nicole Podkowa 
 
-Here are some ideas to get you started:
+- Estou estudando no Alura
+- Estou me dessenvolvendo na linguam de programação
+- Utiliza esse espaço para comprartilhar meus desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## Você pode entrar em contato comigo 📧
+
+- nicole.podkowa@escola.pr.gov.br
+
+- ![](https://media1.tenor.com/m/Xm9CuEL7_IsAAAAd/griddy.gif)
